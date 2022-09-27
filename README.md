@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Humenger/jnitracex/total?color=1&style=plastic) 
 # jnitracex
 基于jnitrace修改,具体修改参考以下两篇文章  
 - [优化jnitrace以及增强信息打印](https://blog.seeflower.dev/archives/82/)  
