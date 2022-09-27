@@ -1,3 +1,10 @@
+# jnitracex
+基于jnitrace修改,具体修改参考以下两篇文章  
+- [优化jnitrace以及增强信息打印](https://blog.seeflower.dev/archives/82/)  
+- [jnitrace app卡死](https://reao.io/archives/320/)
+
+################################# 原版介绍################################
+
 # jnitrace
 
 _A Frida based tool to trace use of the JNI API in Android apps._
