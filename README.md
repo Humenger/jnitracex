@@ -7,7 +7,7 @@
 copy jnitrace.js -> ../Lib/site-packages/jnitrace/build/jnitrace.js
 
 # 加入星球不迷路
-![8ba3c1e7-8aa9-4352-9017-62f4f70476c3](https://user-images.githubusercontent.com/27600008/192497910-abaa58a0-94a1-4754-b236-9e06b8c88cb3.jpg)
+![8ba3c1e7-8aa9-4352-9017-62f4f70476c3](https://user-images.githubusercontent.com/27600008/192949274-15f6ad63-3732-42ee-af2d-63388855d12b.jpg)
 
 
 ################################# 原版介绍################################
