@@ -6,7 +6,7 @@
 # Replace
 copy jnitrace.js -> ../Lib/site-packages/jnitrace/build/jnitrace.js
 
-# 加入我的知识圈
+# 加入知识圈
 [Humenger](https://github.com/Humenger)
 
 
